@@ -40,10 +40,7 @@
     "recharts": "^2.12.7",
     "stream-chat": "^8.40.6",
     "stream-chat-react": "^11.23.9",
-    "timeago.js": "^4.0.2",
-    "vite": "^5.2.0",
-    "zod": "^3.23.8",
-    "zustand": "^4.5.2"
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
