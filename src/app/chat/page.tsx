@@ -2,7 +2,6 @@
 
 import React from 'react';
 import ChatComponent from '@/src/components/ChatComponent'; // Adjust path as necessary
-import Chat from "@/src/components/chat/Chat"
 
 const Page = () => {
   const userId = "123444553"; // Replace with actual user ID

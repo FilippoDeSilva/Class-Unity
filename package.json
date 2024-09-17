@@ -23,7 +23,6 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.6",
     "fast-glob": "^3.3.2",
-    "firebase": "^10.13.1",
     "globby": "^14.0.2",
     "js-cookie": "^3.0.5",
     "jsonwebtoken": "^9.0.2",
