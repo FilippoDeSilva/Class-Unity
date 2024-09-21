@@ -22,7 +22,7 @@
         "@/*": ["*"]
       },
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/pages/api/generateToken.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "/pages/api/generateToken.js", "lib/mongodb.js", "app/api/[...nextauth]/route.js", "auth.js"],
   "exclude": ["node_modules"]
 }
 
