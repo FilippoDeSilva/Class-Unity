@@ -1,4 +1,4 @@
-# Class Unity School Management Dashboard
+# Class Unity School Management System.
 
 ## Getting Started
 
