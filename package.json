@@ -17,7 +17,7 @@
     "@types/react-big-calendar": "^1.8.9",
     "convex": "^1.16.4",
     "moment": "^2.30.1",
-    "next": "^14.2.15",
+    "next": "^14.2.35",
     "next-cloudinary": "^6.14.1",
     "react": "^18",
     "react-big-calendar": "^1.13.2",
